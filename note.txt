@@ -1,0 +1,13 @@
+git config --global user.name "your name"
+git config --global user.email abc@gmail.com
+
+git init
+git add .
+git status
+git commit -m "commit dau tien 3"
+git remote add origin https://github.com/BuiHung12/test
+git push -u origin master
+
+token: buihung123, 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 
+
+git remote sub origin git@github.com/BuiHung12/test
