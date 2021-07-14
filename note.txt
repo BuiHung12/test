@@ -1,5 +1,10 @@
-git config --global user.name "your name"
-git config --global user.email abc@gmail.com
+git config --global user.name "bui hung"
+git config --global user.email "buihung0625@gmail.com"
+ssh key: buihung0625@gmail.com
+
+git config --global user.password A@65879866587986
+git config user.username "bui hung"
+git config user.email "buihung0625@gmail.com"
 
 git init
 git add .
@@ -7,6 +12,8 @@ git status
 git commit -m "commit dau tien 3"
 git remote add origin https://github.com/BuiHung12/test
 git push -u origin master
+buihung123
+ssh -T git@github.com
 
 token: buihung123, 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 
 
